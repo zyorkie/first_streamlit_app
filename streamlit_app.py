@@ -73,4 +73,3 @@ def insert_row_snowflake(new_fruit):
 
 
 
-
